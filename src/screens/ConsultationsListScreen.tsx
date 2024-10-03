@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { NativeBaseProvider, Box, Button, Center, FlatList, Text, Textarea, Select, CheckIcon } from 'native-base';
+import { NativeBaseProvider, Box, Button, Center, FlatList, Text, TextArea, Select, CheckIcon } from 'native-base';
 import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { RootStackParamList } from '../navigation/AppNavigator';
 import AsyncStorage from '@react-native-async-storage/async-storage';
